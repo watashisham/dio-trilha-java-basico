@@ -10,7 +10,7 @@ public class ContaTerminal {
         System.out.println("Digite seu nome completo: ");
         String nomecompleto = scanner.nextLine();
 
-       System.out.println("Informe o número da Agência: ");
+        System.out.println("Informe o número da Agência: ");
         String agencia = scanner.nextLine();
 
         System.out.println("Informe o número da conta: ");
